@@ -3,6 +3,7 @@
 <p align="left">
 <a href="https://fb.com/jatuchok.chuma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jatuchok.chuma" height="30" width="40" /></a>
 <a href="https://instagram.com/jatuchokchuma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatuchokchuma" height="30" width="40" /></a>
+<a href="https://discord.gg/jatujatu#8359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jatujatu#8359" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
