@@ -11,5 +11,5 @@
 <h1 align="center"></h1>
 <h1 align="center">🌝 This is my THM profile ! 🌝</h1>
 <p align="center">
-  <script src="https://tryhackme.com/badge/2240596"></script>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/alwaysbepluto.png" alt="TryHackMe">
 </p>
