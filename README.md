@@ -14,6 +14,4 @@
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/alwaysbepluto.png?7" alt="TryHackMe">
 </p>
-
-<h1 align="center"></h1>
-<h1 align="center"><img src="https://tryhackme.com/img/badges/burpsuite.svg" alt="BurpSuite" width="50" height="50"> </h1> 
+<h1 align="center"><img src="https://tryhackme.com/img/badges/burpsuite.svg" alt="BurpSuite" width="100" height="100"> </h1> 
