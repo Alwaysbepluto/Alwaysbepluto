@@ -16,4 +16,4 @@
 </p>
 
 <h1 align="center"></h1>
-<h1 align="center"><img src="https://tryhackme.com/img/badges/burpsuite.svg" alt="TryHackMe"></h1> 
+<h1 align="center"><img src="https://tryhackme.com/img/badges/burpsuite.svg" alt="BurpSuite" width="50" height="50"> </h1> 
