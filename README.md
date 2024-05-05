@@ -12,10 +12,10 @@
 <h1 align="center"></h1>
 <h1 align="center">🌝 This is my THM profile ! 🌝</h1>
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/alwaysbepluto.png?7" alt="TryHackMe" width="100" height="100">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/alwaysbepluto.png?7" alt="TryHackMe">
 </p>
 <h1 align="center">
-    <img src="https://tryhackme.com/img/badges/burpsuite.svg" alt="BurpSuite" width="100" height="100">
+    <img src="https://tryhackme.com/img/badges/burpsuite.svg" alt="BurpSuite" width="75" height="75">
     <img src="https://tryhackme.com/img/badges/introtowebsecurity.svg" alt="WebSec" width="100" height="100">
     <img src="https://tryhackme.com/img/badges/howthewebworks.svg" alt="WebWork" width="100" height="100">
     <img src="https://tryhackme.com/img/badges/webbed.svg" alt="Web" width="100" height="100">
