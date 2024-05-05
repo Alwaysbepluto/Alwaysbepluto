@@ -14,11 +14,13 @@
 <p align="center">
 </p>
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/alwaysbepluto.png?7" alt="TryHackMe">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/alwaysbepluto.png?3" alt="TryHackMe">
 </p>
 <h1 align="center">
     <img src="https://tryhackme.com/img/badges/burpsuite.svg" alt="BurpSuite" width="75" height="75">
     <img src="https://tryhackme.com/img/badges/introtowebsecurity.svg" alt="WebSec" width="75" height="75">
     <img src="https://tryhackme.com/img/badges/howthewebworks.svg" alt="WebWork" width="75" height="75">
     <img src="https://tryhackme.com/img/badges/webbed.svg" alt="Web" width="75" height="75">
+    <img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" alt="owasptop10" width="75" height="75">
+    <img src="https://assets.tryhackme.com/img/badges/streak7.svg" alt="7days" width="75" height="75">
 </h1>
