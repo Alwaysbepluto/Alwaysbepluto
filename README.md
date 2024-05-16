@@ -18,6 +18,7 @@
 </p>
 <h1 align="center">
     <img src="https://tryhackme.com/img/badges/burpsuite.svg" alt="BurpSuite" width="75" height="75">
+    <img src="https://assets.tryhackme.com/img/badges/metasploit.svg" alt="Metasploit" width="75" height="75">
     <img src="https://tryhackme.com/img/badges/introtowebsecurity.svg" alt="WebSec" width="75" height="75">
     <img src="https://tryhackme.com/img/badges/howthewebworks.svg" alt="WebWork" width="75" height="75">
     <img src="https://tryhackme.com/img/badges/webbed.svg" alt="Web" width="75" height="75">
